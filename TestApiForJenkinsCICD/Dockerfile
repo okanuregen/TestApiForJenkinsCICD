@@ -7,7 +7,7 @@ RUN dotnet restore -v n
 
 COPY . ./
 
-RUN dotnet publish --no-restore -c Release -o /app --no-cache /restore
+RUN dotnet publish --no-restore -c Release -o out --no-cache /restore
 
 
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
