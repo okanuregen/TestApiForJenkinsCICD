@@ -10,7 +10,6 @@ C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJen
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Debug\net6.0\TestApiForJenkinsCICD.csproj.AssemblyReference.cache
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Debug\net6.0\TestApiForJenkinsCICD.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Debug\net6.0\TestApiForJenkinsCICD.AssemblyInfoInputs.cache
 C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Debug\net6.0\TestApiForJenkinsCICD.AssemblyInfo.cs
