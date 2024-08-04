@@ -1,16 +1,20 @@
-FROM mcr.microsoft.com/dotnet/sdk:6.0
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
+EXPOSE 80
+EXPOSE 443
 
-COPY *.csproj .
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+COPY ["TestApiForJenkinsCICD/TestApiForJenkinsCICD.csproj", "TestApiForJenkinsCICD/"]
+RUN dotnet restore "TestApiForJenkinsCICD/TestApiForJenkinsCICD.csproj"
+COPY . .
+WORKDIR "/src/TestApiForJenkinsCICD"
+RUN dotnet build "TestApiForJenkinsCICD.csproj" -c Release -o /app/build
 
-RUN dotnet restore 
+FROM build AS publish
+RUN dotnet publish "TestApiForJenkinsCICD.csproj" -c Release -o /app/publish
 
-COPY . ./
-
-RUN dotnet publish --no-restore -c Release -o out
-
-
-FROM mcr.microsoft.com/dotnet/aspnet:6.0
+FROM base AS final
 WORKDIR /app
-COPY --from=build-env /app/out .
+COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "TestApiForJenkinsCICD.dll"]
