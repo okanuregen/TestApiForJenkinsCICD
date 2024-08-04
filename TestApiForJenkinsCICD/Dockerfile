@@ -9,10 +9,10 @@ COPY *.csproj .
 RUN dotnet restore
 COPY . .
 WORKDIR "/src/TestApiForJenkinsCICD"
-RUN dotnet build "TestApiForJenkinsCICD.csproj" -c Release -o /app/build
+RUN dotnet build -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "TestApiForJenkinsCICD.csproj" -c Release -o /app/publish
+RUN dotnet publish -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
