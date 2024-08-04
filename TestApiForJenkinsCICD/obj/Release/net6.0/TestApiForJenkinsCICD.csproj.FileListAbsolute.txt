@@ -1,0 +1,23 @@
+C:\app\build\appsettings.Development.json
+C:\app\build\appsettings.json
+C:\app\build\TestApiForJenkinsCICD.exe
+C:\app\build\TestApiForJenkinsCICD.deps.json
+C:\app\build\TestApiForJenkinsCICD.runtimeconfig.json
+C:\app\build\TestApiForJenkinsCICD.dll
+C:\app\build\ref\TestApiForJenkinsCICD.dll
+C:\app\build\TestApiForJenkinsCICD.pdb
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.csproj.AssemblyReference.cache
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.AssemblyInfoInputs.cache
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.AssemblyInfo.cs
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.csproj.CoreCompileInputs.cache
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\scopedcss\bundle\TestApiForJenkinsCICD.styles.css
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.csproj.CopyComplete
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.dll
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\ref\TestApiForJenkinsCICD.dll
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.pdb
+C:\Users\okan.uregen\Desktop\Okan\Kişisel Çalışmalarım\Docker\TestApiForJenkinsCICD\TestApiForJenkinsCICD\TestApiForJenkinsCICD\obj\Release\net6.0\TestApiForJenkinsCICD.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gJ4hza2sno72oHAPI3O6I8qRHiMPUcB6HTpQUqmIBfA=",
+  "Source": "TestApiForJenkinsCICD",
+  "BasePath": "_content/TestApiForJenkinsCICD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
