@@ -5,8 +5,8 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY *.csproj TestApiForJenkinsCICD/
-RUN dotnet restore TestApiForJenkinsCICD/TestApiForJenkinsCICD.csproj
+COPY ["TestApiForJenkinsCICD/TestApiForJenkinsCICD.csproj", "TestApiForJenkinsCICD/"]
+RUN dotnet restore "TestApiForJenkinsCICD/TestApiForJenkinsCICD.csproj"
 COPY . .
 WORKDIR "/src/TestApiForJenkinsCICD"
 RUN dotnet build "TestApiForJenkinsCICD.csproj" -c Release -o /app/build
